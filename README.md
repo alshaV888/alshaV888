@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Alfi Sharin Rizvi
+- 👋 Hi, I’m Mohammad Alfi Sharin Rizvi :BD
 - 👀 I’m interested in LINUX
 - 💯 I code in C, C++, Java, Python, Javascript & Typescript
 - 🌱 I’m currently learning Cross Platform Development
